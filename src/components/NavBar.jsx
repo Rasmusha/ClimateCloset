@@ -6,7 +6,7 @@ export default function NavBar() {
             <div id="title">ClimateCloset</div>
             <div>
                 <ul>
-                    <li><a href="">Home</a></li>
+                    <li><Link to="/">Home</Link></li>
                     <li><a href="">Clothes</a></li>
                     <li><Link to="/add-clothes">Add clothes</Link></li>
                 </ul>
